@@ -155,13 +155,13 @@ var buatpesan = await generateWAMessageFromContent(m.chat, {
           {
             "urlButton": {
               "displayText": "My Group",
-              "url": "https://chat.whatsapp.com/E14rIyYMuovIfkskhi5QN9"
+              "url": "https://chat.whatsapp.com/GLCxg5xFDAX4snz097sTmV"
             }
           },
           {
             "callButton": {
               "displayText": "Call Owner",
-              "phoneNumber": "+62 858-7831-3791"
+              "phoneNumber": "+62 899-5820-020"
             }
           },
           {
@@ -190,8 +190,8 @@ zyy.relayMessage(id, buatpesan.message, { messageId: buatpesan.key.id })
 }
 
 let buton = [
-{ callButton: {displayText: `Instagram`, url: `https://instagram.com/spnx.fauzi/`} },
-{ urlButton: { displayText: `Call Owner`, phoneNumber : `+6289503657396`} },
+{ callButton: {displayText: `Instagram`, url: `https://instagram.com/riski_abbas12`} },
+{ urlButton: { displayText: `Call Owner`, phoneNumber : `+628995820020`} },
 { quickReplyButton: { displayText: `Donate`, id: `${prefix}donasi` } },
 { quickReplyButton: { displayText: `Rules`, id: `${prefix}rules` } },
 { quickReplyButton: { displayText: `Owner`, id: `${prefix}owner` } }

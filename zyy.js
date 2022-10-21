@@ -2632,32 +2632,32 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
     + 'N:;ZyyXtrime;;;'
     + 'FN:ZyyXtrime\n'
     + 'ORG:ZyyXtrime;\n'
-    + 'item1.TEL;type=CELL;type=VOICE;waid=6289503657396:+62 895-0365-7396\n' 
-    + 'item1.X-ABLabel:Creator Realzi-bot\n'
-    + 'item2.EMAIL;type=INTERNET: ytfauzigaming@gmail.com\n'
+    + 'item1.TEL;type=CELL;type=VOICE;waid=60174306734:+60 17-430 6734\n' 
+    + 'item1.X-ABLabel:Creator Abbas-bot\n'
+    + 'item2.EMAIL;type=INTERNET: abbasbotz07@gmail.com\n'
     + 'item2.X-ABLabel:Email\n'
-    + 'item3.URL:https://instagram.com/spnx.fauzi\n'
+    + 'item3.URL:https://instagram.com/riski_abbas12\n'
     + 'item3.X-ABLabel:Instagram\n'
     + 'item4.ADR:;;Indonesia;;;;\n'
     + 'item4.X-ABLabel:Region\n'
     + 'END:VCARD'
-zyy.sendMessage(m.chat, { contacts: { displayName: 'ZyyXtrime', contacts: [{ vcard }] } }, { quoted: m })
+zyy.sendMessage(m.chat, { contacts: { displayName: 'Abbas', contacts: [{ vcard }] } }, { quoted: m })
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
-                const Tag = '6289503657396'
+                const Tag = '60174306734'
                 anu = `_*Hi Kak ${pushname} ${ucapanWaktu} 👋.*_
 _*Saya Whatsapp Robot Yang Bisa Membantu Anda/User Kapan Saja!!*_
 
-_*Berikut Adalah Daftar Fitur Yang Terdapat Pada Realzi-bot*_
+_*Berikut Adalah Daftar Fitur Yang Terdapat Pada Abbas-bot*_
 
-*[   INFORMATION  REALZI  ]*
+*[   INFORMATION  ABBAS  ]*
 
 _❏ Your Name : ${pushname}_
 _❏ Library : Baileys-Md_
 _❏ Version : 5.0.0_
 _❏ Language : Javascript_
-_❏ Author : ZyyXtrime_
+_❏ Author : Abbas_
 _❏ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}_
 _❏ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_                
 ͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏                
@@ -2915,7 +2915,7 @@ _❏ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_
  » ${prefix}blackpink
  » ${prefix}igcertificate
  » ${prefix}ytcertificate`
-const _0x3f1b63=_0x5e00;(function(_0x4b42ba,_0x4be51f){const _0x17fbf3=_0x5e00,_0x42cb0d=_0x4b42ba();while(!![]){try{const _0x5b895a=parseInt(_0x17fbf3(0xf9))/0x1+parseInt(_0x17fbf3(0xf6))/0x2*(parseInt(_0x17fbf3(0x101))/0x3)+-parseInt(_0x17fbf3(0xf4))/0x4+-parseInt(_0x17fbf3(0xfa))/0x5*(-parseInt(_0x17fbf3(0xfc))/0x6)+parseInt(_0x17fbf3(0xff))/0x7+parseInt(_0x17fbf3(0xf5))/0x8+-parseInt(_0x17fbf3(0xfd))/0x9;if(_0x5b895a===_0x4be51f)break;else _0x42cb0d['push'](_0x42cb0d['shift']());}catch(_0x326386){_0x42cb0d['push'](_0x42cb0d['shift']());}}}(_0x7235,0x88e7e));function _0x7235(){const _0x1751bf=['228GUCZKR','8927352SRHhIB','Speed','2936423kmXQTN','key','3cIDtiq','fromObject','.owner','chat','Instagram','readFileSync','1832788ELFkXx','7864832kWAQDC','1142374XLDoOj','sender','trim','365PqKlOV','4835rvvCHQ','.sc'];_0x7235=function(){return _0x1751bf;};return _0x7235();}function _0x5e00(_0xb941ea,_0x18c4e1){const _0x723562=_0x7235();return _0x5e00=function(_0x5e009c,_0x3728a2){_0x5e009c=_0x5e009c-0xf0;let _0x246ca4=_0x723562[_0x5e009c];return _0x246ca4;},_0x5e00(_0xb941ea,_0x18c4e1);}const template=generateWAMessageFromContent(m['chat'],proto['Message'][_0x3f1b63(0x102)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu[_0x3f1b63(0xf8)](),'locationMessage':{'jpegThumbnail':fs[_0x3f1b63(0xf3)]('./media/fake.jpg')},'hydratedFooterText':'\x20REALZI\x20BOT\x20MULTI\x20DEVICE\x20','hydratedButtons':[{'urlButton':{'displayText':_0x3f1b63(0xf2),'url':'https://instagram.com/spnx.fauzi/'}},{'callButton':{'displayText':'Nomor\x20Owner','PhoneNumber':'+6289503657396'}},{'quickReplyButton':{'displayText':_0x3f1b63(0xfe),'id':'.ping'}},{'quickReplyButton':{'displayText':'Script','id':_0x3f1b63(0xfb)}},{'quickReplyButton':{'displayText':'Owner','id':_0x3f1b63(0xf0)}}]}}}),{'userJid':m[_0x3f1b63(0xf7)],'quoted':m});zyy['relayMessage'](m[_0x3f1b63(0xf1)],template['message'],{'messageId':template[_0x3f1b63(0x100)]['id']});
+const _0x3f1b63=_0x5e00;(function(_0x4b42ba,_0x4be51f){const _0x17fbf3=_0x5e00,_0x42cb0d=_0x4b42ba();while(!![]){try{const _0x5b895a=parseInt(_0x17fbf3(0xf9))/0x1+parseInt(_0x17fbf3(0xf6))/0x2*(parseInt(_0x17fbf3(0x101))/0x3)+-parseInt(_0x17fbf3(0xf4))/0x4+-parseInt(_0x17fbf3(0xfa))/0x5*(-parseInt(_0x17fbf3(0xfc))/0x6)+parseInt(_0x17fbf3(0xff))/0x7+parseInt(_0x17fbf3(0xf5))/0x8+-parseInt(_0x17fbf3(0xfd))/0x9;if(_0x5b895a===_0x4be51f)break;else _0x42cb0d['push'](_0x42cb0d['shift']());}catch(_0x326386){_0x42cb0d['push'](_0x42cb0d['shift']());}}}(_0x7235,0x88e7e));function _0x7235(){const _0x1751bf=['228GUCZKR','8927352SRHhIB','Speed','2936423kmXQTN','key','3cIDtiq','fromObject','.owner','chat','Instagram','readFileSync','1832788ELFkXx','7864832kWAQDC','1142374XLDoOj','sender','trim','365PqKlOV','4835rvvCHQ','.sc'];_0x7235=function(){return _0x1751bf;};return _0x7235();}function _0x5e00(_0xb941ea,_0x18c4e1){const _0x723562=_0x7235();return _0x5e00=function(_0x5e009c,_0x3728a2){_0x5e009c=_0x5e009c-0xf0;let _0x246ca4=_0x723562[_0x5e009c];return _0x246ca4;},_0x5e00(_0xb941ea,_0x18c4e1);}const template=generateWAMessageFromContent(m['chat'],proto['Message'][_0x3f1b63(0x102)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu[_0x3f1b63(0xf8)](),'locationMessage':{'jpegThumbnail':fs[_0x3f1b63(0xf3)]('./media/fake.jpg')},'hydratedFooterText':'\x20ABBAS\x20BOT\x20MULTI\x20DEVICE\x20','hydratedButtons':[{'urlButton':{'displayText':_0x3f1b63(0xf2),'url':'https://instagram.com/riski_abbas12/'}},{'callButton':{'displayText':'Nomor\x20Owner','PhoneNumber':'+60174306734'}},{'quickReplyButton':{'displayText':_0x3f1b63(0xfe),'id':'.ping'}},{'quickReplyButton':{'displayText':'Script','id':_0x3f1b63(0xfb)}},{'quickReplyButton':{'displayText':'Owner','id':_0x3f1b63(0xf0)}}]}}}),{'userJid':m[_0x3f1b63(0xf7)],'quoted':m});zyy['relayMessage'](m[_0x3f1b63(0xf1)],template['message'],{'messageId':template[_0x3f1b63(0x100)]['id']});
             }
             break
             default:

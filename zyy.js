@@ -2645,7 +2645,7 @@ zyy.sendMessage(m.chat, { contacts: { displayName: 'Abbas', contacts: [{ vcard }
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
-                const Tag = '60174306734'
+                const Tag = '628995820020'
                 anu = `_*Hi Kak ${pushname} ${ucapanWaktu} 👋.*_
 _*Saya Whatsapp Robot Yang Bisa Membantu Anda/User Kapan Saja!!*_
 
